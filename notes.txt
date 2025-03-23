@@ -5,3 +5,10 @@ logout
 post creation
 post like 
 post delete -> sirf owner ko dikhe
+
+
+*------------------------------*----------------------*
+MULTER:
+
+aap ko jab bhi kuch bhi file upload karni ho to waise features ko build karne ke liye
+`Multer` ka use karte hai
